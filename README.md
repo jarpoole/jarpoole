@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![languages](https://github-readme-stats-jarpoole.vercel.app/api/top-langs/?username=jarpoole&layout=compact&langs_count=8)
+
 ## Projects
 
 ![thumbnail](./thumbnails/etherweasel.png) [![etherweasel](https://github-readme-stats-jarpoole.vercel.app/api/pin/?username=jarpoole&repo=etherweasel)](https://github.com/jarpoole/etherweasel)
