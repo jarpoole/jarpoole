@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![languages](https://github-readme-stats-jarpoole.vercel.app/api/top-langs/?username=jarpoole&layout=compact&langs_count=8)
+![languages](https://github-readme-stats-jarpoole.vercel.app/api/top-langs/?username=jarpoole&layout=compact&langs_count=8&hide=gcode)
 
 ## Projects
 
